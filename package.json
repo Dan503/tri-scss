@@ -1,0 +1,19 @@
+{
+  "name": "tri-scss",
+  "version": "0.0.0",
+  "description": "*Under construction*",
+  "main": "tri.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dan503/tri-scss.git"
+  },
+  "author": "Daniel Tonon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dan503/tri-scss/issues"
+  },
+  "homepage": "https://github.com/Dan503/tri-scss#readme"
+}
